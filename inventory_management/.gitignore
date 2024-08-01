@@ -1,0 +1,4 @@
+*/__pycache__/*
+api/management/commands/__pycache__/*
+api/migrations/__pycache__/*
+inventory_management/__pycache__/*
