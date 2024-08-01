@@ -32,6 +32,13 @@ Welcome to InventoryPro! This project was developed to provide Amazon, a leader 
     ```bash
     python manage.py runserver
     ```
+6. **Credentials Superusuario backend:**
+ ```
+    Superuser: username: danitest
+    Email: danitest@test.com
+    password: Dani123!
+```
+
 ### Frontend (React)
 1. **Navigate to Frontend Directory:**
     ```bash
@@ -45,6 +52,13 @@ Welcome to InventoryPro! This project was developed to provide Amazon, a leader 
     ```bash
     npm run dev
     ```
+6. **Credentials usuario Auth0 Frontend:**
+ ```
+    "username": "testuser",
+    "password": "TestUser123!",
+    "email": "testuser@test.com"
+```
+
 ## Project Structure
 ### Backend Directory Structure
 ```plaintext
