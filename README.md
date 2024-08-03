@@ -122,7 +122,10 @@ Our database schema consists of the following main tables:
 - **Sales Management:** Handled sales recording and inventory updates atomically.
 - **Sales Reports:** Generated statistical reports using PostgreSQL functions.
 ### API Documentation
-We used Swagger to document our API endpoints. You can access it at `/swagger/`.
+We used Swagger to document our API endpoints. You can access it at `/swagger/`. Example: `http://127.0.0.1:8000/swagger/`
+- **Api documentation Swagger UI:**
+  ![Inventory View](https://github.com/user-attachments/assets/55a05c3b-57be-4bba-beb1-5a88fc2ae7ac)
+
 ## Frontend (React)
 ### Componentization and State Management
 - **Components:** We created reusable components for products, sales, and reports.
