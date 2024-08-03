@@ -21,6 +21,7 @@ Welcome to InventoryPro! This project was developed to provide Amazon, a leader 
     ```
 3. **Install Dependencies:**
     ```bash
+    pip install wheel
     pip install -r requirements.txt
     ```
 4. **Run Redis Server:**
