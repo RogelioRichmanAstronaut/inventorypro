@@ -12,12 +12,12 @@ Welcome to InventoryPro! This project was developed to provide Amazon, a leader 
 1. **Clone the Repository:**
     ```bash
     git clone https://github.com/your-repo/inventorypro.git
-    cd inventorypro
+    cd inventorypro && cd inventory_management
     ```
 2. **Set Up Virtual Environment:**
     ```bash
-    python -m venv venv
-    source venv/bin/activate
+    python -m venv .venv
+    source .venv/bin/activate
     ```
 3. **Install Dependencies:**
     ```bash
