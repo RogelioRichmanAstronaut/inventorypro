@@ -30,7 +30,7 @@ Welcome to InventoryPro! This project was developed to provide Amazon, a leader 
     ```bash
     redis-server
     ```
-5. **Run in ANOTHER terminal the Development Server:**
+5. **Open Another Terminal and run the development server.:**
     ```bash
     cd inventorypro
     cd inventory_management
@@ -44,7 +44,7 @@ Welcome to InventoryPro! This project was developed to provide Amazon, a leader 
 ```
 
 ### Frontend (React)
-1. **Navigate to Frontend Directory:**
+1. **Open a New Terminal and Navigate to the Frontend Directory:**
     ```bash
     cd frontend
     ```
