@@ -36,7 +36,7 @@ Welcome to InventoryPro! This project was developed to provide Amazon, a leader 
     cd inventory_management
     python manage.py runserver
     ```
-6. **Credentials Superusuario backend:**
+6. **Credentials Superuser backend:**
  ```
     Superuser: username: danitest
     Email: danitest@test.com
@@ -57,7 +57,7 @@ Welcome to InventoryPro! This project was developed to provide Amazon, a leader 
     ```bash
     npm run dev
     ```
-6. **Credentials usuario Auth0 Frontend:**
+6. **Credentials user Auth0 Frontend:**
  ```
     "username": "testuser",
     "password": "TestUser123!",
