@@ -46,6 +46,7 @@ Welcome to InventoryPro! This project was developed to provide Amazon, a leader 
 ### Frontend (React)
 1. **Open a New Terminal and Navigate to the Frontend Directory:**
     ```bash
+    cd inventorypro
     cd frontend
     ```
 2. **Install Dependencies:**
