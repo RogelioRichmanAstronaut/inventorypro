@@ -12,7 +12,8 @@ Welcome to InventoryPro! This project was developed to provide Amazon, a leader 
 1. **Clone the Repository:**
     ```bash
     git clone https://github.com/RogelioRichmanAstronaut/inventorypro.git
-    cd inventorypro && cd inventory_management
+    cd inventorypro
+    cd inventory_management
     ```
 2. **Set Up Virtual Environment:**
     ```bash
