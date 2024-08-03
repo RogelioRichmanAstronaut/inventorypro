@@ -30,8 +30,10 @@ Welcome to InventoryPro! This project was developed to provide Amazon, a leader 
     ```bash
     redis-server
     ```
-5. **Run the Development Server:**
+5. **Run in ANOTHER terminal the Development Server:**
     ```bash
+    cd inventorypro
+    cd inventory_management
     python manage.py runserver
     ```
 6. **Credentials Superusuario backend:**
