@@ -132,13 +132,23 @@ Implemented routing using React Router for seamless navigation between different
 ### User Interface
 Screenshots of the frontend UI:
 - **Inventory View:**
-  ![Inventory View](./screenshots/inventory_view.png)
+  ![Inventory View](https://github.com/user-attachments/assets/55c7250b-5fd8-475f-9dc5-233a1a632fc2)
+
+- **Product History Movements:**
+  ![Product History Movements](https://github.com/user-attachments/assets/3e56232a-7006-4c6b-ad54-14492da3582f)
+  
 - **Sales View:**
-  ![Sales View](./screenshots/sales_view.png)
+  ![Sales View](https://github.com/user-attachments/assets/abd1b9c1-d79c-4761-b995-75c688ad4bc8)
+
+- **Sale Details:**
+  ![Sale Details](https://github.com/user-attachments/assets/5c0e4dcc-70d7-43bb-ab74-931364946cd1)
+
 - **Create Product:**
-  ![Create Product](./screenshots/create_product.png)
-- **Reports:**
-  ![Reports](./screenshots/reports.png)
+  ![Create Product](https://github.com/user-attachments/assets/25e69444-6bae-4e9e-b328-282eda631290)
+
+- **Report Details:**
+  ![Report Details](https://github.com/user-attachments/assets/531447d2-ba62-40e1-87e9-42de5d73d54a)
+
 ## Transaction Management
 We ensured atomicity in critical operations like inventory updates using Django transactions and PostgreSQL stored procedures.
 ## Performance and Scalability
