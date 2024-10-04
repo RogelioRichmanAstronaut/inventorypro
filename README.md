@@ -1,6 +1,6 @@
 # InventoryPro: Basic Inventory Management System
 ## Introduction
-Welcome to InventoryPro! This project was developed to provide Amazon, a leader in e-commerce, with an efficient billing system that also updates inventory stock after a sale. Additionally, it generates statistical sales reports. This simplified system includes product management, inventory control, and sales recording.
+Welcome to InventoryPro! Efficient billing system that also updates inventory stock after a sale. Additionally, it generates statistical sales reports. This simplified system includes product management, inventory control, and sales recording.
 ## Tech Stack
 - **Backend:** Django, Django REST Framework
 - **Frontend:** React
